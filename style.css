@@ -210,7 +210,7 @@ h1 {
   .scene {
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 30%;
     width: min(92vw, 420px);
     aspect-ratio: 390 / 844;
     transform: translate(-50%, -50%);
