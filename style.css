@@ -277,7 +277,7 @@ h1 {
   .scene {
     position: absolute;
     left: 50%;
-    top: 40%;
+    top: 50%;
     width: min(92vw, 420px);
     aspect-ratio: 390 / 844;
     transform: translate(-50%, -50%);
@@ -296,7 +296,7 @@ h1 {
   .container p {
     font-size: clamp(0.5rem, .85rem, 1.1rem);
     max-width: 84%;
-    line-height: 1.45;
+    line-height: 1.4;
   }
 
   h1 {
@@ -306,11 +306,11 @@ h1 {
   .button {
     width: 60px;
     height: 60px;
-    bottom: 33%;
+    bottom: 31%;
   }
 
   .keys {
-    top: -5%;
+    top: 8%;
     left: -8%;
     width: min(48vw, 220px);
     max-width: 60%;
